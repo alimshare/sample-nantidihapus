@@ -1,5 +1,1 @@
-@extends('template')
-
-@section('content')
-    <h1>Welcome</h1>
-@endsection
+<h1>Selamat Datang</h1>
